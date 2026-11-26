@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srbhv07/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0260-single-number-iii](https://github.com/srbhv07/DSA/tree/master/0260-single-number-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/srbhv07/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/srbhv07/DSA/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/srbhv07/DSA/tree/master/0875-koko-eating-bananas) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/srbhv07/DSA/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/srbhv07/DSA/tree/master/0260-single-number-iii) |
 ## Two Pointers
 |  |
 | ------- |
