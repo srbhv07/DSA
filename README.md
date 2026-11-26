@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srbhv07/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0260-single-number-iii](https://github.com/srbhv07/DSA/tree/master/0260-single-number-iii) |
+| [0322-coin-change](https://github.com/srbhv07/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srbhv07/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/srbhv07/DSA/tree/master/0494-target-sum) |
 | [0875-koko-eating-bananas](https://github.com/srbhv07/DSA/tree/master/0875-koko-eating-bananas) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srbhv07/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/srbhv07/DSA/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/srbhv07/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srbhv07/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/srbhv07/DSA/tree/master/0494-target-sum) |
 ## Memoization
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/srbhv07/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srbhv07/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/srbhv07/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -64,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srbhv07/DSA/tree/master/0005-longest-palindromic-substring) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srbhv07/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srbhv07/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
